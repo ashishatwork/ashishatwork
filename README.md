@@ -13,6 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<div align="center">
+
+I'm a full stack developer :technologist: from India. <br>I like exploring new technologies and creating seamless experiences through code :keyboard: . <br><br> Currently learing MERN and Web3 development, hoping to contribute in decentralised technologies :abacus: soon.
+
+</div>
+
+---
+
 ### :computer: Languages and Tools :
 <br/>
 
@@ -33,3 +41,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
 </div>
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishatwork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
