@@ -1,4 +1,9 @@
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ashish Kumar!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+</div><br/>
+
+
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  <a href="https://www.linkedin.com/in/ashish-kumar-a86172158/">Ashish Kumar</a>!
 
 
 <!---
@@ -7,6 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
+
+### :computer: Languages and Tools :
+<br/>
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
