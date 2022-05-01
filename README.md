@@ -45,5 +45,5 @@ I'm a full stack developer :technologist: from India. <br>I like exploring new t
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishatwork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishatwork&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
