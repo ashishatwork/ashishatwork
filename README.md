@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  <a href="https://www.linkedin.com/in/ashish-kumar-a86172158/">Ashish Kumar</a>!
+### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am  <a href="https://www.linkedin.com/in/ashishatwork/">Ashish Kumar</a>!
 
 </div>
 <!---
