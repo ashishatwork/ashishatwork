@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-I'm a full stack developer :technologist: from India. <br>I like exploring new technologies and creating seamless experiences through code :keyboard: . <br><br> Currently learing MERN and Web3 development, hoping to contribute in decentralised technologies :abacus: soon.
+I'm a full stack developer :technologist: from India. <br>I like exploring new technologies and creating seamless experiences through code :keyboard: . <br><br> Currently learning MERN and Web3 development, hoping to contribute in decentralised technologies :abacus: soon.
 
 </div>
 
